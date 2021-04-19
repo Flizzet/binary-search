@@ -1,2 +1,2 @@
 # Binary Search
-[2016] Simple Java application which searches through an array with a BinarySearch
+[2016] Simple Java class project which searches through an array with a BinarySearch
